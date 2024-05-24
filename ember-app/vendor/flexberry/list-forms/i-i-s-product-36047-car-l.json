@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-product-36047-car-e",
+  "editForm": "i-i-s-product-36047-car-e",
+  "external": false,
+  "caption": "Car",
+  "name": "IISProduct_36047CarL",
+  "className": "CarL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-product-36047-car",
+      "modelProjection": "CarL"
+    }
+  ]
+}

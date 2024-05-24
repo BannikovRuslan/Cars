@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Car",
+  "name": "IISProduct_36047CarE",
+  "className": "CarE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-product-36047-car",
+      "modelProjection": "CarE"
+    }
+  ]
+}
